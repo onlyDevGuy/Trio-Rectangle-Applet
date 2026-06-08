@@ -191,16 +191,6 @@ Through this project, the following concepts were practiced:
 
 ---
 
-## Screenshots
-
-Add screenshots showing:
-
-- Initial rectangle position
-- Mouse-click repositioning
-- Different coordinate placements
-
----
-
 ## Author
 
 **Sizwe Ramokhali**
